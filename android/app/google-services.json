@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816414465376",
+    "project_id": "healthy-futsal",
+    "storage_bucket": "healthy-futsal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816414465376:android:b62607516cfbfe26d81205",
+        "android_client_info": {
+          "package_name": "com.example.summer_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816414465376-obrcd5f85d0jtf9u7jet4jions4e5nq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMfEWc_oQVud-S8Ei3SJkq35aAl9UrkM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816414465376-obrcd5f85d0jtf9u7jet4jions4e5nq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
